@@ -102,3 +102,11 @@ Certifique-se de ter instalado o **Raspberry Pi Pico SDK** e o **compilador C/C+
       ````
 
    5. Após isso, o arquivo main.elf será gerado na pasta build.
+
+### Pré-requisitos
+- **Placa BitDogLab** configurada e conectada.
+- Ambiente de desenvolvimento configurado com **SDK do RP2040**.
+
+   ou
+
+- Use a extensão do Wokwi no VSCode [https://marketplace.visualstudio.com/items?itemName=Wokwi.wokwi-vscode](https://marketplace.visualstudio.com/items?itemName=Wokwi.wokwi-vscode)
